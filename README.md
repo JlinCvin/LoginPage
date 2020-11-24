@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+通过本地JSON验证登录
+
 ## Build Setup
 
 ``` bash
